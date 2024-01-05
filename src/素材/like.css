@@ -1,0 +1,10 @@
+.tables {
+    border-collapse: collapse;
+}
+td {
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    word-wrap: break-word;
+    max-width: 300px;
+}
